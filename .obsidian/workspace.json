@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대한민국 법률/admrule-kr/GMP/CAPA.md",
+                "file": "대한민국 법률/legalize-kr/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAPA"
+              "title": "README"
             }
           }
         ]
@@ -184,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da27464c19d3644a",
+  "active": "eeb28e0d7ecd7819",
   "lastOpenFiles": [
+    "대한민국 법률/admrule-kr/GMP/CAPA.md",
     "대한민국 법률/admrule-kr/10·29이태원참사진상규명과재발방지를위한특별조사위원회/_본부/고시/10·29이태원참사 진상규명과 재발방지를 위한 특별조사위원회 규칙의 공포에 관한 규칙/본문.md",
     "환영합니다!.md",
     "대한민국 법률",
@@ -213,7 +214,6 @@
     "admrule-kr/과학기술정보통신부/충청지방우정청/고시/(충청지방우정청) 우체국 설치 고시/본문.md",
     "admrule-kr/과학기술정보통신부/충청지방우정청/고시/(충청지방우정청) 별정우체국 지정 해지 고시/본문.md",
     "admrule-kr/과학기술정보통신부/중앙전파관리소/예규/중앙전파관리소 홈페이지 운영지침/본문.md",
-    "admrule-kr/과학기술정보통신부/중앙전파관리소/예규/중앙전파관리소 정보화업무 관리지침/본문.md",
     "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청훈령등정세칙",
     "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청공적심의회 규정",
     "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 정보공개 운영규정",
