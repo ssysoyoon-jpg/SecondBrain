@@ -1,7 +1,7 @@
 Deviation
 
 관련 법령
-→ 약사법
+→ [[약사법]]
 
 관련 GMP
 → GMP

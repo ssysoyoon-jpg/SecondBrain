@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b90a767bcb082027",
+        "id": "33901a28d4f31d40",
         "type": "tabs",
         "children": [
           {
-            "id": "eeb28e0d7ecd7819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대한민국 법률/legalize-kr/kr/제품의포장재질ㆍ포장방법에관한기준등에관한규칙/기후에너지환경부령.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "기후에너지환경부령"
-            }
-          },
-          {
-            "id": "d813e1eaa3e3a456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대한민국 법률/Knowledge/Deviation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deviation"
-            }
-          },
-          {
-            "id": "5cac36543fd6e180",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대한민국 법률/Knowledge/CAPA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CAPA"
-            }
-          },
-          {
-            "id": "96afbe0d08ee48b6",
+            "id": "ef7571cbf07b8850",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,21 +22,20 @@
             }
           },
           {
-            "id": "8cf9a28544b38eb5",
+            "id": "5806880e853551fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대한민국 법률/Knowledge/Deviation.md",
+                "file": "대한민국 법률/Templates/법률/README Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deviation"
+              "title": "README Template"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "약사법",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +88,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,46 +195,47 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "cecc4abb5049ad87",
+  "active": "ef7571cbf07b8850",
   "lastOpenFiles": [
     "대한민국 법률/Knowledge/GMP.md",
-    "대한민국 법률/Knowledge/OOS.md",
-    "대한민국 법률/Knowledge/CAPA.md",
     "대한민국 법률/Knowledge/Deviation.md",
+    "대한민국 법률/Knowledge/CAPA.md",
+    "대한민국 법률/Templates/법률/README Template.md",
+    "대한민국 법률/법률링크/약사법/README.md",
+    "대한민국 법률/법률링크/약사법/법률.md",
+    "대한민국 법률/legalize-kr/kr/약사법/법률.md",
+    "대한민국 법률/법률링크/테스트법/테스트법.md",
+    "약사법_임시.md",
+    "대한민국 법률/법률링크/약사법/시행령.md",
+    "환영합니다!.md",
+    "대한민국 법률/법률링크/테스트법",
+    "대한민국 법률/법률링크/새 폴더",
+    "대한민국 법률/Templates/법률",
+    "대한민국 법률/Templates/무제",
+    "대한민국 법률/Templates",
+    "create a link.md",
+    "대한민국 법률/무제",
+    "대한민국 법률/법률링크/약사법/시행규칙.md",
+    "대한민국 법률/legalize-kr/kr/식품의약품안전처와그소속기관직제/대통령령.md",
+    "대한민국 법률/법률링크/약사법.md",
+    "대한민국 법률/법률링크/약사법",
+    "대한민국 법률/법률링크/시행규칙.md",
+    "대한민국 법률/법률링크/법률.md",
+    "대한민국 법률/법률링크/시행령.md",
+    "대한민국 법률/법률링크/약사법/시행규칙",
+    "대한민국 법률/법률링크/약사법/새 폴더",
+    "대한민국 법률/법률링크/약사법/시행령",
+    "대한민국 법률/legalize-kr/kr/행정권한의위임및위탁에관한규정/대통령령.md",
+    "약사.md",
+    "대한민국 법률/Knowledge/OOS.md",
     "대한민국 법률/Knowledge/GMP/GMP.md",
     "대한민국 법률/legalize-kr/kr/제품의포장재질ㆍ포장방법에관한기준등에관한규칙/기후에너지환경부령.md",
-    "무제",
-    "대한민국 법률/Knowledge/oos",
-    "대한민국 법률/Knowledge/새 폴더",
-    "대한민국 법률/Knowledge/CAPA",
-    "대한민국 법률/Knowledge/Deviation",
-    "대한민국 법률/Knowledge/GMP",
-    "대한민국 법률/Knowledge",
-    "대한민국 법률/새 폴더",
     "대한민국 법률/legalize-kr/kr/군수용마약류의취급에관한규칙/국방부령.md",
     "대한민국 법률/legalize-kr/README.md",
-    "대한민국 법률/admrule-kr/GMP/CAPA.md",
-    "대한민국 법률/admrule-kr/10·29이태원참사진상규명과재발방지를위한특별조사위원회/_본부/고시/10·29이태원참사 진상규명과 재발방지를 위한 특별조사위원회 규칙의 공포에 관한 규칙/본문.md",
-    "환영합니다!.md",
-    "대한민국 법률",
-    "새 폴더",
-    "admrule-kr/GMP/CAPA.md",
-    "create a link.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청훈령등정세칙/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 위임전결 세칙/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 정보공개 운영규정/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청공적심의회 규정/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 점심휴무관리위원회 규정/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 우체국창구업무 위탁대상자 선정 심의위원회 세칙/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 시간제우체국 우편창구 업무시간에 관한 규정/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 각종 사고보고 등에 관한 규정/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 소속공무원 인사관리규정/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 당직 및 비상근무에 관한 규정/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 내 우체국의 업무취급 시간에 대한 규정/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 기록관 운영규정/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/예규/충청지방우정청 지도실장 관리 및 활동지침/본문.md"
+    "대한민국 법률/admrule-kr/GMP/CAPA.md"
   ]
 }
