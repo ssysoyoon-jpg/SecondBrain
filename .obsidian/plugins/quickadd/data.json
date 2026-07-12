@@ -9,7 +9,21 @@
       "macro": {
         "name": "새 법령 만들기",
         "id": "0648c00c-2ac7-4b22-8ef0-83e41073a42d",
-        "commands": []
+        "commands": [
+          {
+            "name": "If condition",
+            "type": "Conditional",
+            "id": "29386b66-f82f-4a45-86ae-e60d592863e7",
+            "condition": {
+              "mode": "variable",
+              "variableName": "",
+              "operator": "isTruthy",
+              "valueType": "string"
+            },
+            "thenCommands": [],
+            "elseCommands": []
+          }
+        ]
       }
     }
   ],

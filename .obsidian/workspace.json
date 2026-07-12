@@ -35,7 +35,8 @@
               "title": "README Template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +200,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef7571cbf07b8850",
+  "active": "5806880e853551fe",
   "lastOpenFiles": [
+    "대한민국 법률/Knowledge/OOS.md",
     "대한민국 법률/Knowledge/GMP.md",
     "대한민국 법률/Knowledge/Deviation.md",
     "대한민국 법률/Knowledge/CAPA.md",
@@ -231,7 +233,6 @@
     "대한민국 법률/법률링크/약사법/시행령",
     "대한민국 법률/legalize-kr/kr/행정권한의위임및위탁에관한규정/대통령령.md",
     "약사.md",
-    "대한민국 법률/Knowledge/OOS.md",
     "대한민국 법률/Knowledge/GMP/GMP.md",
     "대한민국 법률/legalize-kr/kr/제품의포장재질ㆍ포장방법에관한기준등에관한규칙/기후에너지환경부령.md",
     "대한민국 법률/legalize-kr/kr/군수용마약류의취급에관한규칙/국방부령.md",
