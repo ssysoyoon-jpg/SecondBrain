@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대한민국 법률/legalize-kr/README.md",
+                "file": "대한민국 법률/legalize-kr/kr/제품의포장재질ㆍ포장방법에관한기준등에관한규칙/기후에너지환경부령.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "기후에너지환경부령"
+            }
+          },
+          {
+            "id": "d813e1eaa3e3a456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대한민국 법률/Knowledge/Deviation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deviation"
+            }
+          },
+          {
+            "id": "5cac36543fd6e180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대한민국 법률/Knowledge/CAPA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CAPA"
+            }
+          },
+          {
+            "id": "96afbe0d08ee48b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대한민국 법률/Knowledge/OOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OOS"
+            }
+          },
+          {
+            "id": "8cf9a28544b38eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대한민국 법률/Knowledge/Deviation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deviation"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -53,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "약사법",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +131,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,8 +242,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeb28e0d7ecd7819",
+  "active": "cecc4abb5049ad87",
   "lastOpenFiles": [
+    "대한민국 법률/Knowledge/GMP.md",
+    "대한민국 법률/Knowledge/OOS.md",
+    "대한민국 법률/Knowledge/CAPA.md",
+    "대한민국 법률/Knowledge/Deviation.md",
+    "대한민국 법률/Knowledge/GMP/GMP.md",
+    "대한민국 법률/legalize-kr/kr/제품의포장재질ㆍ포장방법에관한기준등에관한규칙/기후에너지환경부령.md",
+    "무제",
+    "대한민국 법률/Knowledge/oos",
+    "대한민국 법률/Knowledge/새 폴더",
+    "대한민국 법률/Knowledge/CAPA",
+    "대한민국 법률/Knowledge/Deviation",
+    "대한민국 법률/Knowledge/GMP",
+    "대한민국 법률/Knowledge",
+    "대한민국 법률/새 폴더",
+    "대한민국 법률/legalize-kr/kr/군수용마약류의취급에관한규칙/국방부령.md",
+    "대한민국 법률/legalize-kr/README.md",
     "대한민국 법률/admrule-kr/GMP/CAPA.md",
     "대한민국 법률/admrule-kr/10·29이태원참사진상규명과재발방지를위한특별조사위원회/_본부/고시/10·29이태원참사 진상규명과 재발방지를 위한 특별조사위원회 규칙의 공포에 관한 규칙/본문.md",
     "환영합니다!.md",
@@ -205,22 +279,6 @@
     "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 당직 및 비상근무에 관한 규정/본문.md",
     "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 내 우체국의 업무취급 시간에 대한 규정/본문.md",
     "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 기록관 운영규정/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/예규/충청지방우정청 지도실장 관리 및 활동지침/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/예규/충청지방우정청 연고지 전보 운영지침/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/예규/충청지방우정청 공무원 경고·주의 처분 지침/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/예규/「충청지방우정청 다사랑운동」 운영 지침/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/고시/특수지 계약집배구 지역 변경 고시/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/고시/우편취급국 폐국/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/고시/(충청지방우정청) 우체국 설치 고시/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/고시/(충청지방우정청) 별정우체국 지정 해지 고시/본문.md",
-    "admrule-kr/과학기술정보통신부/중앙전파관리소/예규/중앙전파관리소 홈페이지 운영지침/본문.md",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청훈령등정세칙",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청공적심의회 규정",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 정보공개 운영규정",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 점심휴무관리위원회 규정",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 위임전결 세칙",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 우체국창구업무 위탁대상자 선정 심의위원회 세칙",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 시간제우체국 우편창구 업무시간에 관한 규정",
-    "admrule-kr/과학기술정보통신부/충청지방우정청/훈령/충청지방우정청 당직 및 비상근무에 관한 규정"
+    "admrule-kr/과학기술정보통신부/충청지방우정청/예규/충청지방우정청 지도실장 관리 및 활동지침/본문.md"
   ]
 }
