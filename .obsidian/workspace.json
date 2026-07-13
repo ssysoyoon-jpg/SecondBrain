@@ -185,10 +185,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da27464c19d3644a",
+  "active": "ef122457be4e9637",
   "lastOpenFiles": [
-    "대한민국 법률/Templates/법률 Template.md",
+    "대한민국 법률/Scrips/create-law.js",
+    "대한민국 법률/Scrips/create-law.js.txt",
+    "대한민국 법률/Scrips/새 텍스트 문서.txt",
+    "대한민국 법률/Scrips/create-law.js/create-law.js.md",
     "대한민국 법률/Templates/README Template.md",
+    "대한민국 법률/Templates/법률 Template.md",
     "대한민국 법률/Templates/시행령 Template.md",
     "대한민국 법률/legalize-kr/kr/약사법/법률.md",
     "대한민국 법률/법률링크/약사법/시행규칙.md",
@@ -202,9 +206,7 @@
     "대한민국 법률/Knowledge/GMP.md",
     "약사법_임시.md",
     "대한민국 법률/법률링크/테스트법/테스트법.md",
-    "대한민국 법률/Scrips/create-law.js/create-law.js.md",
     "대한민국 법률/Scrips/create-law.js.md",
-    "대한민국 법률/Scrips/create-law.js",
     "대한민국 법률/Scrips/새 폴더",
     "대한민국 법률/Knowledge/CAPA.md",
     "대한민국 법률/Scrips/무제",
@@ -215,13 +217,11 @@
     "환영합니다!.md",
     "대한민국 법률/법률링크/테스트법",
     "대한민국 법률/법률링크/새 폴더",
-    "대한민국 법률/Templates/법률",
     "create a link.md",
     "대한민국 법률/legalize-kr/kr/식품의약품안전처와그소속기관직제/대통령령.md",
     "대한민국 법률/법률링크/약사법.md",
     "대한민국 법률/법률링크/시행규칙.md",
     "대한민국 법률/법률링크/법률.md",
-    "대한민국 법률/법률링크/시행령.md",
-    "대한민국 법률/legalize-kr/kr/행정권한의위임및위탁에관한규정/대통령령.md"
+    "대한민국 법률/법률링크/시행령.md"
   ]
 }
