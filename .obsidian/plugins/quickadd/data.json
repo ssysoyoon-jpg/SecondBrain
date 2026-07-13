@@ -1,14 +1,26 @@
 {
   "choices": [
     {
-      "id": "1736eabf-5671-478b-929d-71ef1255c889",
+      "id": "c2b72adb-e3da-44d8-9167-4cae70233971",
+      "name": "Choices",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Choices",
+        "id": "4c82dedf-4a0f-4844-9a95-958ca6b0ed05",
+        "commands": []
+      }
+    },
+    {
+      "id": "a7e4ba09-4a74-46da-95b1-dcf8fc96bd60",
       "name": "새 법령 만들기",
       "type": "Macro",
       "command": false,
       "runOnStartup": false,
       "macro": {
         "name": "새 법령 만들기",
-        "id": "208cf9cb-6a3f-432c-8a4c-d5a1b47c142d",
+        "id": "1e7be9a0-1c0a-4cdd-ad0c-227c5fdb1385",
         "commands": []
       }
     }
