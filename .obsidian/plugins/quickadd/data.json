@@ -1,29 +1,15 @@
 {
   "choices": [
     {
-      "id": "93753986-847c-40ff-9c7b-31033b7f1c44",
+      "id": "1736eabf-5671-478b-929d-71ef1255c889",
       "name": "새 법령 만들기",
       "type": "Macro",
       "command": false,
       "runOnStartup": false,
       "macro": {
         "name": "새 법령 만들기",
-        "id": "0648c00c-2ac7-4b22-8ef0-83e41073a42d",
-        "commands": [
-          {
-            "name": "If condition",
-            "type": "Conditional",
-            "id": "5b11de37-ecab-4a4d-a390-6cbb8b847572",
-            "condition": {
-              "mode": "variable",
-              "variableName": "",
-              "operator": "isTruthy",
-              "valueType": "string"
-            },
-            "thenCommands": [],
-            "elseCommands": []
-          }
-        ]
+        "id": "208cf9cb-6a3f-432c-8a4c-d5a1b47c142d",
+        "commands": []
       }
     }
   ],

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대한민국 법률/Scrips/create-law.js/create-law.js.md",
+                "file": "대한민국 법률/법률링크/테스트법/테스트법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create-law.js"
+              "title": "테스트법"
             }
           }
         ],
@@ -200,10 +200,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5806880e853551fe",
+  "active": "da27464c19d3644a",
   "lastOpenFiles": [
-    "대한민국 법률/Scrips/create-law.js.md",
     "대한민국 법률/Scrips/create-law.js/create-law.js.md",
+    "대한민국 법률/Scrips/create-law.js.md",
     "대한민국 법률/Scrips/create-law.js",
     "대한민국 법률/Scrips/새 폴더",
     "대한민국 법률/Knowledge/CAPA.md",
