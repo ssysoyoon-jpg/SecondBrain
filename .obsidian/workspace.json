@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대한민국 법률/Knowledge/OOS.md",
+                "file": "대한민국 법률/Knowledge/약사법-GMP 연결 학습 가이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOS"
+              "title": "약사법-GMP 연결 학습 가이드"
             }
           }
         ]
@@ -164,8 +164,19 @@
               "icon": "lucide-list",
               "title": "환영합니다! 의 개요"
             }
+          },
+          {
+            "id": "474b049b954c9de3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -187,40 +198,41 @@
   },
   "active": "ef122457be4e9637",
   "lastOpenFiles": [
-    "대한민국 법률/법률링크/테스트법/테스트법.md",
-    "대한민국 법률/Knowledge/OOS.md",
+    "대한민국 법률/legalize-kr/kr/의약품등의안전에관한규칙/총리령.md",
+    "대한민국 법률/Knowledge/약사법-GMP 연결 학습 가이드.md",
+    "대한민국 법률/admrule-kr/국무총리/식품의약품안전처/고시/의약품 제조 및 품질관리에 관한 규정/본문.md",
+    "대한민국 법률/legalize-kr/kr/경제총조사규칙/총리령.md",
+    "대한민국 법률/legalize-kr/kr/약사법/법률.md",
     "대한민국 법률/Knowledge/CAPA.md",
+    "대한민국 법률/Templates/법률 Template.md",
+    "대한민국 법률/Templates/시행규칙 Template.md",
+    "대한민국 법률/Templates/시행령 Template.md",
+    "대한민국 법률/Templates/README Template.md",
+    "대한민국 법률/Knowledge/OOS.md",
+    "대한민국 법률/admrule-kr/국무총리/식품의약품안전처/고시/의약품 제조 및 품질관리에 관한 규정/본문.md.bak",
+    "대한민국 법률/legalize-kr/kr/의약품등의안전에관한규칙/총리령.md.bak",
+    "대한민국 법률/legalize-kr/kr/약사법/시행규칙.md.bak",
+    "대한민국 법률/legalize-kr/kr/약사법/시행령.md.bak",
+    "대한민국 법률/legalize-kr/kr/약사법/법률.md.bak",
+    "대한민국 법률/법률링크/테스트법/테스트법.md",
     "대한민국 법률/Knowledge/Deviation.md",
     "대한민국 법률/Knowledge/GMP.md",
-    "대한민국 법률/Templates/README Template.md",
-    "대한민국 법률/Templates/시행령 Template.md",
-    "대한민국 법률/Templates/시행규칙 Template.md",
-    "대한민국 법률/Templates/법률 Template.md",
     "tsconfig.json",
     "대한민국 법률/Scrips/create-law.js",
     "대한민국 법률/Scrips/create-law.js.txt",
     "대한민국 법률/Scrips/새 텍스트 문서.txt",
     "대한민국 법률/Scrips/create-law.js/create-law.js.md",
-    "대한민국 법률/legalize-kr/kr/약사법/법률.md",
     "대한민국 법률/법률링크/약사법/시행규칙.md",
     "대한민국 법률/법률링크/약사법/시행령.md",
     "대한민국 법률/법률링크/약사법/법률.md",
     "대한민국 법률/Templates/법률/README Template.md",
     "대한민국 법률/Templates/시행 규칙 Template.md",
     "무제",
-    "대한민국 법률/Templates/README Template",
     "약사법_임시.md",
     "대한민국 법률/Scrips/create-law.js.md",
-    "대한민국 법률/Scrips/새 폴더",
-    "대한민국 법률/Scrips/무제",
-    "대한민국 법률/Scrips",
-    "대한민국 법률/새 폴더",
     "대한민국 법률/법률링크/약사법/README.md",
     "환영합니다!.md",
     "create a link.md",
-    "대한민국 법률/legalize-kr/kr/식품의약품안전처와그소속기관직제/대통령령.md",
-    "대한민국 법률/법률링크/약사법.md",
-    "대한민국 법률/법률링크/시행규칙.md",
-    "대한민국 법률/법률링크/법률.md"
+    "대한민국 법률/legalize-kr/kr/식품의약품안전처와그소속기관직제/대통령령.md"
   ]
 }
