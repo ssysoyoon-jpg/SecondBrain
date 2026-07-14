@@ -13,15 +13,52 @@
       }
     },
     {
-      "id": "a7e4ba09-4a74-46da-95b1-dcf8fc96bd60",
+      "id": "4c33aeda-3045-40db-9d24-f8cefcf85efb",
       "name": "새 법령 만들기",
       "type": "Macro",
       "command": false,
       "runOnStartup": false,
       "macro": {
         "name": "새 법령 만들기",
-        "id": "1e7be9a0-1c0a-4cdd-ad0c-227c5fdb1385",
-        "commands": []
+        "id": "00db53fa-ad3a-4711-862d-f51380523b78",
+        "commands": [
+          {
+            "name": "Untitled Template Choice",
+            "type": "NestedChoice",
+            "id": "b61786a5-b11c-4165-9d79-80eba0ca2a64",
+            "choice": {
+              "id": "e0185626-81e4-408e-8b35-98278eb1c316",
+              "name": "Untitled Template Choice",
+              "type": "Template",
+              "command": false,
+              "templatePath": "",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{VALUE:법령명}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "대한민국 법률대한민국 법률"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsBehavior": {
+                "kind": "prompt"
+              }
+            }
+          }
+        ]
       }
     }
   ],
