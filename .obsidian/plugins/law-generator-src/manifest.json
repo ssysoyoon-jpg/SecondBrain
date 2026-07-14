@@ -1,0 +1,10 @@
+{
+	"id": "law-generator",
+	"name": "Law Generator",
+	"version": "1.0.0",
+	"minAppVersion": "1.8.0",
+	"description": "대한민국 법령 자동 생성 플러그인",
+	"author": "User",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}
